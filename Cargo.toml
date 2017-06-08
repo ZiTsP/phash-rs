@@ -1,0 +1,6 @@
+[package]
+name = "phash"
+version = "0.1.0"
+authors = ["zitsp-win <zitsp.1167@gmail.com>"]
+
+[dependencies]
